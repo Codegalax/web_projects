@@ -1,0 +1,47 @@
+main {
+    width: 500px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 48px;
+    color: #2e7ad3;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2  {
+    font-size: 32px;
+    color: #104c90;
+    margin-top: 0;
+}
+p {
+    font-size: 16px;
+}
+img {
+    margin-bottom: 25px;
+}
+header {
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+.main-block {
+    background: #f1f1f1;
+    align-items: center;
+    margin: 0 auto;
+    padding: 25px;
+
+}
+.p1 {
+    margin-top: 0;
+    margin-bottom: 9px;
+}
+.p2 {
+    margin-top: 0;
+}
+a {
+    color: #ff8000;
+}
+a:focus,
+a:hover {
+    color: aqua;
+}
