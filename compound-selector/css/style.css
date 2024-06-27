@@ -18,7 +18,7 @@ p {
 }
 
 a {
-    color: #FFE600;
+    color: #09ecb3;
 }
 
 header,
@@ -27,7 +27,7 @@ section {
 }
 
 header {
-    background: #FFE600;
+    background: #09ecb3;
     color: #000;
 }
 
@@ -39,7 +39,7 @@ header {
 .section-one .btn {
     display: inline-block;
     padding: 12px 25px;
-    background: #FFE600;
+    background: #09ecb3;
     color: #000;
     font-weight: bold;
     text-decoration: none;
@@ -63,7 +63,7 @@ header {
 }
 
 .section-two .btn:hover {
-    background: #FFE600;
+    background: #09ecb3;
     color: black;
 }
 
